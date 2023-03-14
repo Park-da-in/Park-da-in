@@ -1,4 +1,4 @@
-### Hi there 👋
+# [:star:tistory_blog:star:](https://020604di.tistory.com/)
 
 <!--
 **Park-da-in/Park-da-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

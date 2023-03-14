@@ -1,4 +1,4 @@
-(미래) 인공지능 개발자
+(예비) 인공지능 개발자
 ========================
 
 # [:star:tistory_blog:star:](https://020604di.tistory.com/)

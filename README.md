@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-da-in&langs_count=8)](https://github.com/Park-da-in/github-readme-stats)
 
 
 
